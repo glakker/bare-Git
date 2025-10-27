@@ -1,7 +1,7 @@
 # bare-Git
 bare Git for dotfiles howto
 
-# Setup
+## Setup
 1. Create bare Git repo
 ```
 git init --bare $HOME/dotgit
@@ -46,7 +46,7 @@ dotgit merge origin/master --allow-unrelated-histories
 ```
 
 
-# Operations
+## Operations
 
 Check status
 ```
