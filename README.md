@@ -52,6 +52,13 @@ Check status
 ```
 dotgit status
 ```
+If there are changes then commit (6.) and push (7.)
+
+Remove file frome repo
+```
+dotgit rm <file>
+dotgit commit -m "Remove file"
+```
 
 List files added
 ```
